@@ -2,7 +2,6 @@
 
 Today's class will focus on:
 
-* Review of assignment-01
 * Review of software hygiene principles (will arise throughout the semester as extra credit)
 * Bi-variate data
 * Multi-variate data
