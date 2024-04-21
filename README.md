@@ -1,4 +1,4 @@
-# 2024-spring-class-05
+# Class 05: Multi-variate Data and Transforms
 
 Today's class will focus on:
 
